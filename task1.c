@@ -1,3 +1,20 @@
+/*
+Completed 
+Structures to represent student data 
+Grading based on percentage
+display percentage and cgpa
+display in tabular format
+
+To Do
+Class average percentage
+Highest and lowest percentage 
+number of students in each category
+
+error handling
+modular programming
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
