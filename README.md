@@ -1,2 +1,11 @@
-# seprojecttest
-for learning git in se lab 1
+
+compile the files
+gcc main.c grade.c fileio.c validation.c stats.c -o studentApp
+or
+make
+
+valid data
+./studentapp 1 
+
+invalid data
+./studentapp 2
