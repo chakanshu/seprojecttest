@@ -6,11 +6,13 @@ display percentage and cgpa
 display in tabular format
 modular programming (20/01/2026 16:47)
 
-To Do
 Class average percentage
 Highest and lowest percentage 
 number of students in each category
-error handling
+error handling (24/01/2026)
+
+To do
+
 
 Errors
 (Fixed)it shows pass for everyone
